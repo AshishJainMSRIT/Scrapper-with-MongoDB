@@ -1,1 +1,2 @@
-# Scrapper-with-MongoDB
+# Run project using command:
+scrapy crawl news
